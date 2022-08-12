@@ -1,0 +1,55 @@
+body {
+
+    text-align: center;
+    background: linear-gradient(to right, #C33764, #1D2671);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0px;
+    margin: 0px;}
+
+.menu {
+    margin-top: 10px;
+}
+
+.myheight {
+    height:400px;
+    margin-top: 50px;
+    border-radius: 3px;
+}
+
+.myheight2 {
+    height:300px;
+    margin-top:10px;
+    border-radius: 3px;
+}
+
+h1 {
+    color: white;
+
+    
+}
+
+#clock {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.myimg {
+    width: 90%;
+    height: 90%;
+}
+
+
+.mycol2 {
+    height: 300px;
+}
+
+.container {
+    max-width: unset;
+}
+
+.container-fluid {
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: hidden;
+
+    }
